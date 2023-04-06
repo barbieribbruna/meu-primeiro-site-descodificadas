@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+
+body{
+    margin: 0%;
+    margin-top: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.home{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 0.5%;    
+    margin-top: -1.5%;          
+}
+
+.galeria{
+    font-size: 1.5rem;
+    font-weight: bold;    
+    margin-left: 1.1%;
+    margin-top: -1.5%;        
+}
+
+.meus5aninhos{
+    font-family: 'Comic Neue', cursive;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #2263c3;
+    margin-left: 5%;
+    margin-top: 10%;         
+}
+
+.datadoaniversario{
+    font-size: 2.2rem;
+    color:whitesmoke;
+    margin-left: 5%;
+    margin-top: 5%;                             
+}
+
+.logo{
+    position: absolute;
+    right: 1%;
+    top: -0.1%;                        
+}
+
+.audio{
+    position: absolute;
+    margin-left: 1.1%;
+    margin-top: 7%;
+}
+
+.confirmarpresenca{
+    margin: auto;
+    width: 50%;
+    border: 0.2rem solid #000000;
+    padding: 0.8rem;
+    text-align: center;                       
+    font-weight: bold;
+    background: lightblue;
+
+}
+
+.textosobreconfirmarpresenca{
+    background-image: linear-gradient(to right, lightblue, lightskyblue, #2263c3);
+    color: black;
+    width: 98%;
+    margin-left: 0.3%;
+    margin-top: 0.3%;
+    padding: 0.6rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.darpresente{
+    margin: auto;
+    width: 40%;
+    border: 0.2rem solid #000000;
+    padding: 0.8rem;
+    text-align: center;                       
+    font-weight: bold;
+    background: lightblue;
+}
+
+.espacodafesta{
+    text-align: justify;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    font-size: 1rem;
+}
+
+.localdafesta{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align:justify;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.rodape{
+    text-align: right;
+    margin-right: 0.2%;
+    font-size: 0.6rem;
+}
+
+

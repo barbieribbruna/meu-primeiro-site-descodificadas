@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.banner{
+    background-image: linear-gradient(to left, lightblue, lightskyblue, #2263c3);
+    color: black;
+    padding: 1rem;
+    margin-left: 0.3%;
+    margin-top: 0.3%;
+    margin-right: 0.3%;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nome{
+    font-weight: bold;
+    font-size: large;
+    margin-left: 0.3%;
+}
+
+.email{
+    font-weight: bold;
+    font-size: large;
+    margin-left: 0.3%;
+}
+
+#perguntadecomparecimento{
+    margin-left: 0.3%;
+}
+
+.radio{
+    width: 5%;
+    margin-left: 0.8%;
+}
+
+.niveldeempolgacao{
+    margin-left: 0.3%;
+}
+
+.mensagem{
+    font-weight: bold;
+    margin-left: 0.3%;
+} 
+
+#msg{
+    width: 40rem;
+    height: 5rem;
+    margin-left: 0.1%; 
+}
+
+.button{
+    background: #016ABC;
+    color: #fff;
+    border: 0.1rem solid #eee;
+    border-radius: 0.4rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #eee;
+    text-shadow: none;
+    cursor: pointer;
+    text-align: center;
+    width: 5rem;
+    height: 1.5rem;
+    margin-left: 0.3%;
+}
